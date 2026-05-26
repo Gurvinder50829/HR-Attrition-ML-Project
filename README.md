@@ -40,5 +40,7 @@ To analyze employee data and build a model that can predict attrition based on d
 - Streamlit
 
 ---
+<img width="1173" height="739" alt="image" src="https://github.com/user-attachments/assets/9102554a-1a46-4733-8887-daca011dd860" />
+
 
 ## 📂 Project Structure
